@@ -1,0 +1,162 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Merriweather', serif;
+}
+nav {
+    position: fixed;
+    width: 100%;
+    top: 0%;
+    left: 0%;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    border-bottom-width: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    z-index: 1;
+}
+nav > ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+nav > label, nav > input {
+    display: none;
+}
+nav > br {
+    display: none;
+}
+@media screen and (orientation: portrait) {
+    nav li a {
+        box-sizing: border-box;
+        display: block;
+        width: 100%;
+        border-top: 1px solid black;
+    }
+    nav > label {
+        display: inline-block;
+        font-size: 150%;
+    }
+    nav > ul > li {
+        display: none;
+    }
+    nav > input:checked ~ ul > li{
+        display: block;
+        margin-right: 2%;
+        margin-bottom: 1%;
+    }
+    nav > input:checked ~ ul {
+        margin-top: 1%;
+    }
+}
+
+nav li {
+    margin-left: 2%;
+    display: inline-block;
+}
+nav li a {
+    display: block;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 4px;
+    text-decoration: none;
+    color: black;
+    padding: 7px 8px;
+}
+nav li a:hover {
+    background-color: black;
+    color: white;
+    transition: background-color 0.5s ease;
+}
+nav li img {
+    width: 38px;
+    vertical-align: middle;
+    padding: 2px;
+    border-radius: 4px;
+}
+#currentSite {
+    background-color: black;
+    color: white;
+}
+main {
+    position: absolute;
+    min-width: 90%;
+    min-height: 90%;
+    top: 6%;
+}
+article {
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 4px;
+    float: left;
+    min-width: 98%;
+    margin: 1%;
+}
+@media (orientation: landscape) {
+    main {
+        top: 12%
+    }
+}
+article > p:first-child {
+    font-weight: bold;
+    font-size: x-large;
+    text-decoration: underline;
+    text-decoration-color: cornsilk;
+    color: midnightblue;
+}
+article > p:first-child:hover {
+    transition: text-decoration-color 300ms;
+    text-decoration-color: midnightblue;
+}
+article p {
+    margin: 1%;
+}
+article > p:last-child::first-letter {
+    font-size: x-large;
+    color:tomato;
+}
+form {
+    margin-left: 2%;
+}
+form > input, form > textarea{
+    display: block;
+    background-color: white;
+    border-radius: 4px;
+}
+form > input {
+    padding: 0.7em;
+}
+#email {
+    width: 30em;
+}
+form > textarea {
+    width: 100%;
+}
+#submit {
+    padding: 1.5em;
+    float: right;
+}
+#submit:enabled:hover {
+    color: white;
+    background-color: black;
+    transition: background-color 0.5s ease;
+}
+@keyframes loadMoreButtonAnimation {
+    0% {opacity: 0%; top: 0em;}
+    50% {opacity: 100%; top: 1em;}
+    100% {opacity: 0%; top: 2em;}
+}
+#loadMoreButton {
+    position: relative;
+    width: 2em;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3em;
+    animation-name: loadMoreButtonAnimation;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease;
+
+}

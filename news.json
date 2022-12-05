@@ -1,0 +1,138 @@
+{
+    "National":  
+    [
+        [
+            "Nachricht Nummer eins",
+            "Diese Nachricht ist ein Test, ich hoffe, dass sie einigermaßen lesbar und schön dargestellt wird."
+        ],
+        [
+            "Sebastian Kurz hat Probleme",
+            "Aber eigentlich ist die Headline eine Lüge, denn er wird Österreich länger regieren, als Fidel Castro Kuba regiert hat, egal, ob als Kanzler in Reihe eins oder aus den hinteren Reihen."
+        ],
+        [
+            "Nachricht 3",
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+        ],
+        [
+            "Nachricht 4",
+            "Lorem A"
+        ],
+        [
+            "Nachricht 5",
+            "Lorem ipsum A"
+        ],
+        [
+            "Nachricht 6",
+            "Lorem ipsum dolor A"
+        ],
+        [
+            "Nachricht 7",
+            "Lorem ipsum dolor sit A"
+        ],
+        [
+            "Nachricht 8",
+            "Lorem ipsum dolor sit amet, A"
+        ],
+        [
+            "Nachricht 9",
+            "Lorem ipsum dolor sit amet, consectetur A"
+        ],
+        [
+            "Nachricht 10",
+            "Lorem ipsum dolor sit amet, consectetur adipiscing A"
+        ]
+    ],
+    "International":  
+    [
+        [
+            "Deutschland steht an der Ampel",
+            "Sie wird immer gelber."
+        ],
+        [
+            "Tschechien ist in einer komischen Situation",
+            "Eigentlich hätten sie ein neues Parlament und es hat sich bereits eine mehrheitsfähige Koalition aus fünf Parteien gefunden, aber der Präsident ist krank und kann keine Regierung ernennen. Blöd, oder? BREAKING NEWS, ES HAT DOCH FUNKTIONIERT!"
+        ],
+        [
+            "Donald Trump kommt aus der Ecke",
+            "Menschen scheinen verwirrt zu sein, dass er aufgerufen haben soll, 2024 nicht wählen zu gehen."
+        ],
+        [
+            "Nachricht 4",
+            "Lorem B"
+        ],
+        [
+            "Nachricht 5",
+            "Lorem ipsum B"
+        ],
+        [
+            "Nachricht 6",
+            "Lorem ipsum dolor B"
+        ],
+        [
+            "Nachricht 7",
+            "Lorem ipsum dolor sit B"
+        ],
+        [
+            "Nachricht 8",
+            "Lorem ipsum dolor sit amet, B"
+        ],
+        [
+            "Nachricht 9",
+            "Lorem ipsum dolor sit amet, consectetur B"
+        ]
+    ],
+    "Wirtschaft":  
+    [
+        [
+            "Inflation ist 'high'",
+            "1. Öl und Gas sind Mangelware \n2. Die EZB pumpt Cash in die Wirtschaft \n3. Irgendwie braucht jeder Halbleiter, aber gleichzeitig waren alle zu dumm, ein Lager an kritischen Materialien anzulegen, weil OuTsOuRcInG und LeAn-MaNaGeMeNt und so."
+        ]
+    ],
+    "Politik":  
+    [
+        [
+            "Olaf wird vielleicht Kanzler in Berlin",
+            "Schaut zumindest danach aus, vielleicht zerstreiten sich Liberale, Grüne und Sozialdemokraten aber auch."
+        ],
+        [
+            "Sebastian Kurz hat Probleme",
+            "Wenigstens gibt es in Österreich, nicht so wie im Nachbarland, eine Wirtschafts- und Korruptionsstaatsanwaltschaft"
+        ],
+        [
+            "FDP gewinnt Bundestagswahl",
+            "Nach dem veröffentlichten Papier zu den Vorsondierungen scheint es so, als könne die FDP ihre wichtigsten Punkte gegen SPD und Grüne durchsetzen."
+        ],
+        [
+            "Nachricht 4",
+            "Lorem C"
+        ],
+        [
+            "Nachricht 5",
+            "Lorem ipsum C"
+        ],
+        [
+            "Nachricht 6",
+            "Lorem ipsum dolor C"
+        ],
+        [
+            "Nachricht 7",
+            "Lorem ipsum dolor sit C"
+        ],
+        [
+            "Nachricht 8",
+            "Lorem ipsum dolor sit amet, C"
+        ],
+        [
+            "Nachricht 9",
+            "Lorem ipsum dolor sit amet, consectetur C"
+        ],
+        [
+            "Nachricht 10",
+            "Lorem ipsum dolor sit amet, consectetur adipiscing C"
+        ],
+        [
+            "Nachricht 11",
+            "Das ist die letzte Nachricht!"
+        ]
+    ]
+}
